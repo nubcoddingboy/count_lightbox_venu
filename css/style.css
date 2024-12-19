@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+#main{
+    padding: 100px 0;
+    background: tomato;
+}
+
+.counterItem{
+    padding: 25px 30px;
+    background: #000;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.countdown{
+    padding: 25px 30px;
+    background: #000;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+.image{
+    padding: 30px 0;
+}
+
+#light{
+    
+    padding-bottom: 60px ;
+    background: greenyellow;
+}
+
+.image img{
+    width: 100%;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+
+
+.venuimage img{
+    width: 100%;
+    
+    
+}
